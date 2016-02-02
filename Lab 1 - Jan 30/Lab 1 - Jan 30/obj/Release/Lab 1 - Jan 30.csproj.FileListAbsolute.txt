@@ -1,0 +1,5 @@
+E:\GitHub\Programming-Logic\Lab 1 - Jan 30\Lab 1 - Jan 30\bin\Release\Lab 1 - Jan 30.exe.config
+E:\GitHub\Programming-Logic\Lab 1 - Jan 30\Lab 1 - Jan 30\bin\Release\Lab 1 - Jan 30.exe
+E:\GitHub\Programming-Logic\Lab 1 - Jan 30\Lab 1 - Jan 30\bin\Release\Lab 1 - Jan 30.pdb
+E:\GitHub\Programming-Logic\Lab 1 - Jan 30\Lab 1 - Jan 30\obj\Release\Lab 1 - Jan 30.exe
+E:\GitHub\Programming-Logic\Lab 1 - Jan 30\Lab 1 - Jan 30\obj\Release\Lab 1 - Jan 30.pdb
