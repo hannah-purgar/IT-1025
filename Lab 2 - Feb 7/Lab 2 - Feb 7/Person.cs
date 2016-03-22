@@ -11,6 +11,7 @@ namespace Lab_2___Feb_7
         public string LastName;
         public Person Spouse;
         public static double SumOfAllAges;
+        string PrintNameAndAge;
 
 
              //             Creating People              //
@@ -39,10 +40,8 @@ namespace Lab_2___Feb_7
 
                // Return to top to create new Person //
             return Person;
-
-
-
         }
+
 
 
     }
