@@ -5,69 +5,27 @@ namespace Lab_2___Feb_7
     {
         static void Main(string[] args)
         {
-            //  Creating two people. //
-            Person p1 = new Person();
-            Person p2 = new Person();
 
-            //  Gathering information //
+               // Setting initial Sum of Ages to 0 //
+            Person.SumOfAllAges = 0;
 
-                // First Name //
-            System.Console.Write("P1 First Name is: ");
-            p1.FirstName = System.Console.ReadLine();
-
-            System.Console.Write("P2 First Name is: ");
-            p2.FirstName = System.Console.ReadLine();
-
-
-            // Last Name //
-            System.Console.Write("P1 Last Name is: ");
-            p1.LastName = System.Console.ReadLine();
-
-            System.Console.Write("P2 Last Name is: ");
-            p2.LastName = System.Console.ReadLine();
-
-
-            // Age //
-            System.Console.Write("P1 Age is: ");
-            p1.age = int.Parse(System.Console.ReadLine());
-
-            System.Console.Write("P2 Age is: ");
-            p2.age = int.Parse(System.Console.ReadLine());
-
-
-            // Marital Status //
-            System.Console.WriteLine("Is P1 married? ");
-            p1.MarriageStatus = bool.Parse(System.Console.ReadLine());
-
-            if (p1.MarriageStatus == true)
-            {
-                System.Console.Write("P1 Spouse Name is: ");
-                p1.Spouse.FirstName = System.Console.ReadLine();
-                p1.Spouse.LastName = p1.LastName;
-            }
-            else
-            {
-
-                sdfsd
-            }
+               // Person1 becomes a new Person //
+            Person Person1 = Person.CreatePerson("");
+            // Person1 has a spouse that is created using the code in CreatePerson (Person Class) //
+            Person1.Spouse = Person.CreatePerson("Spouse ");
 
 
 
-            System.Console.WriteLine("Is P2 married? ");
-            p2.MarriageStatus = bool.Parse(System.Console.ReadLine());
+               // Person2 becomes a new Person //
+            Person Person2 = Person.CreatePerson("");
+               // Person2 has a spouse that is created using the code in CreatePerson (Person Class)//
+            Person2.Spouse = Person.CreatePerson("Spouse ");
 
-            if (p2.MarriageStatus == true)
-            {
-                System.Console.Write("P2 Spouse Name is: ");
-                p2.Spouse.FirstName = System.Console.ReadLine();
-                p2.Spouse.LastName = p2.LastName;
-            }
-            else
-            {
-
-                sdfsd
-            }
-
+               // Displaying & Calculating the average age of all Persons //
+            System.Console.WriteLine("Average Age         : " + Person.SumOfAllAges / 4);
+            System.Console.ReadKey();
+            
+            
 
 
         }
