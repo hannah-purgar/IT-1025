@@ -1,0 +1,6 @@
+C:\Users\Hannah Purgar\Desktop\Lab 4 - April 12\Lab 4 - April 12\bin\Debug\Lab 4 - April 12.exe.config
+C:\Users\Hannah Purgar\Desktop\Lab 4 - April 12\Lab 4 - April 12\obj\Debug\Lab 4 - April 12.csprojResolveAssemblyReference.cache
+C:\Users\Hannah Purgar\Desktop\Lab 4 - April 12\Lab 4 - April 12\bin\Debug\Lab 4 - April 12.exe
+C:\Users\Hannah Purgar\Desktop\Lab 4 - April 12\Lab 4 - April 12\bin\Debug\Lab 4 - April 12.pdb
+C:\Users\Hannah Purgar\Desktop\Lab 4 - April 12\Lab 4 - April 12\obj\Debug\Lab 4 - April 12.exe
+C:\Users\Hannah Purgar\Desktop\Lab 4 - April 12\Lab 4 - April 12\obj\Debug\Lab 4 - April 12.pdb
