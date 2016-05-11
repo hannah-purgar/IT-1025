@@ -1,0 +1,9 @@
+E:\Academic\2016 Spring TriC\HannahPurgarSpring2016Final\HannahPurgarSpring2016Final\bin\Debug\HannahPurgarSpring2016Final.exe.config
+E:\Academic\2016 Spring TriC\HannahPurgarSpring2016Final\HannahPurgarSpring2016Final\bin\Debug\HannahPurgarSpring2016Final.exe
+E:\Academic\2016 Spring TriC\HannahPurgarSpring2016Final\HannahPurgarSpring2016Final\bin\Debug\HannahPurgarSpring2016Final.pdb
+E:\Academic\2016 Spring TriC\HannahPurgarSpring2016Final\HannahPurgarSpring2016Final\obj\Debug\HannahPurgarSpring2016Final.csprojResolveAssemblyReference.cache
+E:\Academic\2016 Spring TriC\HannahPurgarSpring2016Final\HannahPurgarSpring2016Final\obj\Debug\HannahPurgarSpring2016Final.exe
+E:\Academic\2016 Spring TriC\HannahPurgarSpring2016Final\HannahPurgarSpring2016Final\obj\Debug\HannahPurgarSpring2016Final.pdb
+C:\Users\Hannah Purgar\Desktop\IT-1025\HannahPurgarSpring2016Final\HannahPurgarSpring2016Final\bin\Debug\HannahPurgarSpring2016Final.exe.config
+C:\Users\Hannah Purgar\Desktop\IT-1025\HannahPurgarSpring2016Final\HannahPurgarSpring2016Final\obj\Debug\HannahPurgarSpring2016Final.exe
+C:\Users\Hannah Purgar\Desktop\IT-1025\HannahPurgarSpring2016Final\HannahPurgarSpring2016Final\obj\Debug\HannahPurgarSpring2016Final.pdb
